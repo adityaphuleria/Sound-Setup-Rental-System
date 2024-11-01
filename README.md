@@ -1,4 +1,4 @@
-Sound Setup Rental System
+Sound Setup Rental System,
 Welcome to the Sound Setup Rental System built on the Salesforce platform. This system enables users to rent sound devices of different types of sound(like surround, woofer, stereo, etc.) for specified periods, track availability, manage inventory, and handle rentals and returns efficiently.
 
 Features Device Inventory Management: Add, update, and manage available devices for rental. Rental and Return Tracking: Track device rentals, rental durations, and manage returns. Availability Check: Ensure device availability and manage bookings effectively. Customer and Rental History: Track customer details and rental history for easy management and analysis. Reports and Analytics: Generate reports on device utilization, rental durations, customer preferences, etc.
